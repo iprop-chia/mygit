@@ -1,0 +1,92 @@
+﻿[
+    {
+        "ID": 1,
+        "Name": "12 Featured Credits",
+        "Description": "Introductory Offer 12 Featured Credits",
+        "Credit": 12,
+        "Type": "FC",
+        "Price": 100,
+        "ValidDays": 365
+    },
+    {
+        "ID": 2,
+        "Name": "25 Featured Credits",
+        "Description": "Introductory Offer 25 Featured Credits",
+        "Credit": 25,
+        "Type": "FC",
+        "Price": 200,
+        "ValidDays": 365
+    },
+    {
+        "ID": 3,
+        "Name": "80 Featured Credits",
+        "Description": "Introductory Offer 80 Featured Credits",
+        "Credit": 80,
+        "Type": "FC",
+        "Price": 600,
+        "ValidDays": 365
+    },
+    {
+        "ID": 4,
+        "Name": "40 Ad Credits (Residential)",
+        "Description": "Introductory Offer 40 Ad Credits",
+        "Credit": 40,
+        "Type": "ML",
+        "Price": 70,
+        "ValidDays": 30
+    },
+    {
+        "ID": 5,
+        "Name": "60 Ad Credits (Residential)",
+        "Description": "Introductory Offer 60 Ad Credits",
+        "Credit": 60,
+        "Type": "ML",
+        "Price": 90,
+        "ValidDays": 30
+    },
+    {
+        "ID": 6,
+        "Name": "40 Ad Credits (Commercial)",
+        "Description": "Testing for commercial limit",
+        "Credit": 40,
+        "Type": "MC",
+        "Price": 70,
+        "ValidDays": 30
+    },
+    {
+        "ID": 7,
+        "Name": "80 Ad Credits (Residential)",
+        "Description": "80 Ad Credits for Testing",
+        "Credit": 80,
+        "Type": "ML",
+        "Price": 120,
+        "ValidDays": 30
+    },
+    {
+        "ID": 8,
+        "Name": "80 Ad Credits (Commercial)",
+        "Description": "80 Ad Credits for Testing",
+        "Credit": 80,
+        "Type": "MC",
+        "Price": 120,
+        "ValidDays": 30
+    },
+    {
+        "ID": 9,
+        "Name": "Ramadhan Promo 40 FC",
+        "Description": "Ramadhan Promo 40 FC",
+        "Credit": 40,
+        "Type": "FC",
+        "Price": 300,
+        "ValidDays": 180
+    },
+    {
+        "ID": 10,
+        "Name": "Ramadhan Promo 120 FC",
+        "Description": "Ramadhan Promo 120 FC",
+        "Credit": 120,
+        "Type": "FC",
+        "Price": 800,
+        "ValidDays": 180
+    }
+]

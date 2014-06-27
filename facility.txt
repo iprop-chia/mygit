@@ -1,0 +1,18 @@
+1) Barbecue Area
+2) Business Centre
+3) Cafeteria
+4) Club House
+5) Covered Parking
+6) Gymnasium
+7) Jacuzzi
+8) Jogging Track
+9) Mini Market
+10) Playground
+11) Salon
+12) Swimming Pool
+13) Wading Pool
+14) 24hr Security
+15) Meeting Rooms
+16) Banquet Hall
+17) Loft Garden
+18) Sky Bar
